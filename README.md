@@ -6,6 +6,8 @@ Transform your desktop with animated anime characters! WaifuEngine brings your f
 ![Python](https://img.shields.io/badge/python-3.7+-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
+<img src="ss.png">
+
 ## ✨ Features
 
 - 🎮 **Interactive Desktop Pet** - Characters move freely on your desktop
